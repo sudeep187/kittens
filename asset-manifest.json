@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/kittens/static/css/main.31738962.chunk.css",
+    "main.js": "/kittens/static/js/main.2c1210cc.chunk.js",
+    "main.js.map": "/kittens/static/js/main.2c1210cc.chunk.js.map",
+    "runtime-main.js": "/kittens/static/js/runtime-main.847a1414.js",
+    "runtime-main.js.map": "/kittens/static/js/runtime-main.847a1414.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/kittens/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.fa199927.chunk.js": "/kittens/static/js/2.fa199927.chunk.js",
+    "static/js/2.fa199927.chunk.js.map": "/kittens/static/js/2.fa199927.chunk.js.map",
+    "static/js/3.8d0d35ac.chunk.js": "/kittens/static/js/3.8d0d35ac.chunk.js",
+    "static/js/3.8d0d35ac.chunk.js.map": "/kittens/static/js/3.8d0d35ac.chunk.js.map",
+    "index.html": "/kittens/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/kittens/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.31738962.chunk.css.map": "/kittens/static/css/main.31738962.chunk.css.map",
+    "static/js/2.fa199927.chunk.js.LICENSE.txt": "/kittens/static/js/2.fa199927.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/kittens/static/media/SEGA.d1daf403.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.847a1414.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.fa199927.chunk.js",
+    "static/css/main.31738962.chunk.css",
+    "static/js/main.2c1210cc.chunk.js"
+  ]
+}
